@@ -1,1 +1,1 @@
-**absynth** ? **Ab**stract **Sy**ntax **N**otation + *th*
+**absynth** ∵ **Ab**stract **Sy**ntax **N**otation + *th*
